@@ -12,6 +12,7 @@ namespace ConsolePrj
         {
             // another local commit
             int a = 123;
+            string reason = "Umeko還是覺得a=123才對";
         }
     }
 }
