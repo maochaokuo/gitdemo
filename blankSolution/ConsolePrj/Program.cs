@@ -11,6 +11,7 @@ namespace ConsolePrj
         static void Main(string[] args)
         {
             // another local commit
+            int a = 124;
         }
     }
 }
