@@ -12,6 +12,7 @@ namespace ConsolePrj
         {
             // another local commit
             int a = 124;
+            string reason = "Thomas在這裡a=124是有原因的";
         }
     }
 }
