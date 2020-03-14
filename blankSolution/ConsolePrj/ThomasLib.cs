@@ -11,6 +11,5 @@ namespace ConsolePrj
     /// </summary>
     class ThomasLib
     {
-        int abc = asb; // 新增一個錯誤的修改
     }
 }
